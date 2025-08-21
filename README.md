@@ -1,5 +1,5 @@
 <br>
-<center><img src="https://komarev.com/ghpvc/?username=Chapuzas-SA&color=blueviolet"></center>
+<img align="center" src="https://komarev.com/ghpvc/?username=Chapuzas-SA&color=blueviolet">
 <br />
 
 <a href="https://github.com/Chapuzas-SA">
