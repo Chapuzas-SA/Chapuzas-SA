@@ -1,8 +1,9 @@
 <br>
-<br>
 <img src="https://komarev.com/ghpvc/?username=Chapuzas-SA&color=blueviolet">
 <br />
-<br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chapuzas-SA&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chapuzas-SA&langs_count=8&layout=compact&theme=radical" />
-
+<p align="center">
+<a href="https://github.com/Chapuzas-SA">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chapuzas-SA&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chapuzas-SA&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
