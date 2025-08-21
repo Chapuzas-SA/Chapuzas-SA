@@ -1,11 +1,10 @@
 <br>
 <center></center><img src="https://komarev.com/ghpvc/?username=Chapuzas-SA&color=blueviolet"></center>
 <br />
-<p align="center">
-<a href="https://github.com/Chapuzas-SA">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chapuzas-SA&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/Chapuzas-SA">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chapuzas-SA&layout=compact&theme=radical" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-</p>
