@@ -7,10 +7,6 @@
   <img align="left" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chapuzas-SA&layout=compact&theme=vue-dark" />
 </a>
 <a href="https://github.com/Chapuzas-SA">
-  <img align="left" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chapuzas-SA&layout=compact&theme=vue-dark" />
-</a>
-
-<a href="https://github.com/Chapuzas-SA">
   <img align="left" src="https://raw.githubusercontent.com/Chapuzas-SA/Chapuzas-SA/refs/heads/main/images/profile-night-view.svg" />
 </a>
 
