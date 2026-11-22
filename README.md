@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/character-stats.svg" alt="Retro RPG character sheet for Chapuzas-SA: Chaotic Engineer, fictional skill levels and active Bocce Farming quest" width="860" />
+  <img src="./assets/character-stats.svg" alt="Chapuzas-SA: Chaotic Engineer, fictional skill levels and active Bocce Farming quest" width="860" />
 </div>
 
 ### `> ABOUT.EXE`
