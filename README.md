@@ -21,6 +21,11 @@
 </div>
 
 ---
+### `> REPOSITORY_RADAR`
+
+The interesting stuff is in the repositories. Expect small tools, prototypes, detours and occasional evidence of productive procrastination.
+
+**[Browse the repositories](https://github.com/Chapuzas-SA?tab=repositories)** · **[View recent activity](https://github.com/Chapuzas-SA?tab=overview)**
 
 ### `> BOOT_SEQUENCE`
 
@@ -91,12 +96,6 @@ LOG 042.03  It somehow needs a configuration file.
 LOG 042.04  Nobody remembers the original requirement.
 LOG 042.05  Ship it as an experiment.
 ```
-
-### `> REPOSITORY_RADAR`
-
-The interesting stuff is in the repositories. Expect small tools, prototypes, detours and occasional evidence of productive procrastination.
-
-**[Browse the repositories](https://github.com/Chapuzas-SA?tab=repositories)** · **[View recent activity](https://github.com/Chapuzas-SA?tab=overview)**
 
 ### `> TELEMETRY`
 
